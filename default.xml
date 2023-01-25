@@ -14,13 +14,13 @@
   <project name=".dotfiles" path="." />
 
   <project name="a.vim" remote="vim-scripts"
-           path=".vim/bundle/a.vim" />
+           path=".vim/pack/plugins/start/a.vim" />
   <project name="delimitMate" remote="raimondi"
-           path = ".vim/bundle/delimitMate" />
+           path = ".vim/pack/plugins/start/delimitMate" />
   <project name="vim-fugitive" remote="tpope"
-           path = ".vim/bundle/vim-fugitive" />
+           path = ".vim/pack/plugins/start/vim-fugitive" />
   <project name="vim-fetch" remote="kopischke"
-           path = ".vim/bundle/vim-fetch" />
+           path = ".vim/pack/plugins/start/vim-fetch" />
 
   <project name="solarized-everything-css" remote="alphapapa"
            path = ".config/qutebrowser/solarized-everything-css" />
